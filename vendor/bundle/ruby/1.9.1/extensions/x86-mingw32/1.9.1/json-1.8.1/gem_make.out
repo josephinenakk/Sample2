@@ -1,0 +1,13 @@
+C:/Ruby193/bin/ruby.exe extconf.rb 
+creating Makefile
+
+make  clean
+
+make
+generating parser-i386-mingw32.def
+compiling parser.c
+linking shared-object json/ext/parser.so
+
+make  install
+/usr/bin/install -c -m 0755 parser.so C:/Users/josephine123/Documents/NetBeansProjects/Sample2/vendor/bundle/ruby/1.9.1/gems/json-1.8.1/ext/json/ext/parser/.gem.20140730-3360-7sj59e/json/ext
+installing default parser libraries
